@@ -1,0 +1,36 @@
+commit d6de7374b2b0e22c1f1b134cfc2ada1d989212cb
+Merge: 4a5a8f4 773555b
+Author: Adan <adancobian98@gmail.com>
+Date:   Thu Sep 4 14:39:37 2025 -0700
+
+    Resolve merge conflict by keeping both food and movie/game divs
+
+commit 773555be4d9986b88356cb524025430da81bdc55
+Author: Adan <adancobian98@gmail.com>
+Date:   Thu Sep 4 14:38:48 2025 -0700
+
+    index-fix: add favorite movie/game div
+
+commit 4a5a8f46d72784e7912c3b72d6f7d02e8750ec0e
+Author: Adan <adancobian98@gmail.com>
+Date:   Thu Sep 4 13:40:55 2025 -0700
+
+    main: add favorite food div
+
+commit ce4d886ed00b8e53ccbf2c94c0ab6f1725983d35
+Author: Adan <adancobian98@gmail.com>
+Date:   Thu Sep 4 13:33:24 2025 -0700
+
+    Add README.md describing the repo
+
+commit 401dfffcd0bef997b772b1f2d4e7b275f5a9d4e0
+Author: Adan <adancobian98@gmail.com>
+Date:   Thu Sep 4 13:12:43 2025 -0700
+
+    Fill in the two blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
